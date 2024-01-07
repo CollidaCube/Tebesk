@@ -1,0 +1,5 @@
+name: Tebesk
+version: '${project.version}'
+main: com.collidacube.tebesk.Tebesk
+api-version: '1.20'
+load: STARTUP
